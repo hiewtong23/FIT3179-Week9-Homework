@@ -41,7 +41,7 @@
           "field": "Availability_Q1_2022",
           "type": "quantitative",
           "title": "4G availability (%)",
-          "scale": { "scheme": "blues" }
+          "scale": { "scheme": "reds" }
         },
         "tooltip": [
           { "field": "properties.name", "title": "State" },
